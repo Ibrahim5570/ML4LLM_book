@@ -6,10 +6,15 @@ Code repository for the book "50 ML projects to understand LLMs: Investigate tra
 
 This repository contains all Python code and Jupyter notebooks for the 50 projects in the book. Each project includes:
 
-- **Helper notebook**: Incomplete code with guidance to work through the project yourself
-- **Solutions notebook**: Complete, working implementation with detailed explanations
+- **Helper notebook**: Incomplete code to work through the projects yourself (hints and guidance are in the book).
+- **Solutions notebook**: Complete, working implementation corresponding to the detailed explanations in the book.
 
 All code runs on Google Colab, so you don't need to install anything locally or manage library configurations.
+
+
+<img width="555" src="https://m.media-amazon.com/images/I/81tmONmAReL._SY522_.jpg" />
+
+
 
 ## About the Book
 
@@ -28,14 +33,19 @@ Each project teaches skills in three areas: machine learning techniques, LLM mec
 
 [Check out the spreadsheet for detailed info](https://docs.google.com/spreadsheets/d/1kPiFzCYat-gfjuZthXpLyJ1TZtIemYl-BL18rg37KhA/edit?usp=sharing)
 
+[Check the pdf](https://github.com/mikexcohen/ML4LLM_book/blob/main/ml4llm_TOC_ch1.pdf) for table of contents and chapter 1 (introductions).
+
 ## Purchase the Book
 
 | Format | Link |
 |--------|------|
-| Paperback | Coming soon! |
-| PDF | Coming soon! |
+| Paperback | [amazon](https://www.amazon.com/Projects-Understand-LLMs-visualization-experimentation-ebook/dp/B0H1D5ZFVH) |
+| PDF | [Gumtree](https://mikexcohen.gumroad.com/l/ml4llms) |
 
 No installation required — all notebooks run directly in Google Colab.
+
+## Discord server
+Join the Discord server for questions and support: https://discord.gg/t9UAkKyR95
 
 ## Prerequisites
 
@@ -62,6 +72,5 @@ Other books by Mike X Cohen:
 - Modern Statistics: Intuition, Math, Python, R
 - Calculus Unraveled: Intuition, Proofs, and Python
 
-## Questions and Support
 
-For questions about the code or book content, please open an issue in this repository.
+<img width="555" src="https://m.media-amazon.com/images/I/81tmONmAReL._SY522_.jpg" />
